@@ -1,0 +1,12 @@
+<!--pages/bottom_menu/botton_menu.wxml-->
+<view class="bottonrow">
+  <view class="bottontab" bindtap="square">
+    <text class="bottontabText" style="color:{{firco}}">广场</text>
+  </view>
+  <view class="bottontab" bindtap="add">
+    <image class="bottonImg" src="/images/add.png"></image>
+  </view>
+  <view class="bottontab" bindtap="mytree">
+    <text class="bottontabText" style="color:{{secco}}">我的</text>
+  </view>
+</view>

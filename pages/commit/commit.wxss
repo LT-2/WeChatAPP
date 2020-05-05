@@ -1,0 +1,37 @@
+/* pages/commit/commit.wxss */
+page{
+  background-color: #EFEFEF;
+}
+
+.tarea{
+  background: white;
+  width: 100%;
+}
+
+.txtinput{
+  width: 96%;
+  height: 500rpx;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-bottom: 20rpx;
+  padding-top: 20rpx;
+  font-size: 38rpx;
+}
+
+.commit{
+  width: 84%;
+  height: 100rpx;
+  line-height: 100rpx;
+  border-radius: 10rpx;
+  margin: auto;
+  margin-top: 20rpx;
+  background:red;
+  /* margin-left: 8%; */
+  /* margin-right: 8%; */
+  text-align: center;
+}
+
+.txt{
+  color: white;
+  font-size: 38rpx;
+}

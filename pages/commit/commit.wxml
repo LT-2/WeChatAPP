@@ -1,0 +1,9 @@
+<!--pages/commit/commit.wxml-->
+<view>
+  <view class="tarea">
+    <textarea placeholder="发条树洞吧···" placeholder-style="color:#888888; font-size:38rpx" class="txtinput" maxlength="-1" bindinput="bindTextvalue"></textarea>
+  </view>
+  <view class="commit" bindtap="send">
+    <text class="txt">发送</text>
+  </view>
+</view>

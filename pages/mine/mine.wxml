@@ -1,0 +1,13 @@
+<!--pages/mine/mine.wxml-->
+
+<view class="wxxx">
+  <view>
+    <image class="wxtx"></image>
+  </view>
+  <view>
+    <text class="wxmc"></text>
+  </view>
+</view>
+
+
+<include src="/pages/botton_menu/botton_menu" />
