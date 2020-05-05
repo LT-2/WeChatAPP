@@ -6,9 +6,7 @@
     "pages/enroll/enroll",
     "pages/square/square",
     "pages/commit/commit",
-    "pages/botton_menu/botton_menu",
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/botton_menu/botton_menu"
   ],
   "window":{
     "backgroundTextStyle":"light",
